@@ -1,0 +1,220 @@
+.first-section {
+  background-color: #fff;
+  padding: 1% 3%;
+}
+
+body{
+scroll-behavior: smooth;
+}
+
+.nav-bar {
+  background-color: #e3afbc;
+}
+
+.nav-link {
+  font-family: "Montserrat";
+  font-weight: 200;
+  color: #000;
+  font-size: 1.25rem;
+}
+
+.navbar-brand {
+  font-family: "Montserrat";
+  font-weight: 400;
+  color: #000;
+}
+
+.navbar-toggler {
+  color: #000;
+}
+
+.quote-section {
+   padding: 5% 10%;
+   background-color: #9a1750;
+}
+
+.title-text {
+  padding: 5% 8%;
+  margin: 0 0;
+}
+
+.about-me {
+  background-color: #EE4C7C;
+  padding: 5% 10%;
+}
+
+.section-heading {
+  text-align: center;
+  padding-bottom: 5%;
+}
+
+.about-taran {
+  font-family: "Montserrat";
+  font-size: 1.25rem;
+  font-weight: 200;
+  color: #fff;
+  text-align: justify;
+}
+
+.my-portfolio {
+  padding: 5% 10%;
+  background-color: #E3E2DF;
+}
+
+.image {
+  text-align: center;
+  max-width: 100%;
+  border-radius: 2%;
+  height: 50%;
+}
+
+.quote-p {
+  font-family: "Montserrat";
+  font-style: italic;
+  font-weight: 200;
+  color: #fff;
+  text-align: center;
+}
+
+.carousel-item {
+  margin-left: 15%;
+  margin-right: auto;
+  width: 70%;
+}
+
+.carousel-control-prev, .carousel-control-next{
+ filter: invert(100%);
+}
+
+.contact-section {
+background-color: #e3afbc;
+padding: 5% 8%;
+}
+
+.d-block{
+height: 500px;
+width: 900px;
+}
+
+.contact-form {
+  border-radius: 5px;
+  background-color: #e3afbc;
+}
+
+.info{
+  text-align: center;
+}
+
+ .info-me {
+font-family: "Montserrat";
+font-weight: bold;
+font-size: 2rem;
+padding-top: 5%;
+
+ }
+
+.heading-info{
+  text-align: center;
+  padding-bottom: 5%;
+}
+
+.fname, .lname, .subject{
+  font-family: "Montserrat";
+  color: #000;
+}
+
+.social-pages {
+background-color: #5d001e;
+padding: 5% 8%;
+}
+
+.fa-instagram {
+  color: #fff;
+  font-size: 3rem;
+  text-align: center;
+}
+.fa-linkedin-in {
+  color: #fff;
+  font-size: 3rem;
+  text-align: center;
+}
+.fa-twitter {
+  color: #fff;
+  font-size: 3rem;
+  text-align: center;
+}
+
+.social-icon{
+  font-family: "Montserrat";
+  color: #fff;
+  text-align: center;
+  padding-top: 2%;
+}
+
+.tj-image{
+  text-align: center;
+}
+
+.social-media{
+  text-align: center;
+}
+
+.intro-quote{
+  padding-top: 150px;
+}
+/* mobile responsive */
+@media only screen and (max-width: 768px){
+  .d-block{
+  height: 200px;
+  width: 400px;
+  }
+  .info-me {
+ font-family: "Montserrat";
+ font-weight: bold;
+ font-size: 1.25rem;
+ padding-top: 5%;
+}
+.intro-quote{
+  padding-top: 50px;
+}
+.about-taran {
+  font-family: "Montserrat";
+  font-size: 1.25rem;
+  font-weight: 200;
+  color: #fff;
+  text-align: justify;
+  padding-top: 10px;
+}
+
+}
+
+h1 {
+  font-family: "Montserrat";
+  font-weight: 600;
+  color: #000;
+  text-align: center;
+}
+
+h2 {
+  font-family: "Montserrat";
+  font-weight: 300;
+  color: #000;
+  text-align: center;
+}
+
+p {
+  color: #000;
+}
+
+h3 {
+  font-family: "Montserrat";
+  font-weight: 400;
+  color: #000;
+}
+
+h4 {
+  font-family: "Montserrat";
+  font-weight: 400;
+  color: #fff;
+  text-align: center;
+}
