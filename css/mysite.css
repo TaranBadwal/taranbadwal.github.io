@@ -63,6 +63,7 @@
 .scroll-btn {
  padding-left: 50%;
  padding-top: 10%;
+ scroll-behavior:smooth;
 
 }
 
